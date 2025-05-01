@@ -1,0 +1,25 @@
+{
+  "name": "thewizardswebpage",
+  "version": "1.0.1",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Stephen R. Lewis",
+  "license": "ISC",
+  "description": "just trying to get the html page",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  },
+  "imports":{
+    "#config": "./public/js/config.js"
+  }
+}

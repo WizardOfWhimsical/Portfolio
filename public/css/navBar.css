@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+
+.navbar .navbar-brand{
+    font-family: "Edu Au VIC WA NT Arrows", cursive!important;
+    font-weight: bold;
+}
+
+nav{
+    background-image: url(./imageAssets/navBkGd.png);
+    background-position: center;
+    background-size: 70%;
+}
