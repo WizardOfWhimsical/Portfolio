@@ -28,7 +28,7 @@ img{
 }
 /* dinky hand icon for hover and clicking image to expand */
 img:hover{
-    width: calc(125px * 2.5)
+    /* width: calc(125px * 2.5) */
     cursor:grab
 }
 img:active{
